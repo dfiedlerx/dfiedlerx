@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on social or distuptive projects
 - 🤔 I’m looking for help with a new company
 - 💬 Ask me about everything
-- 📫 How to reach me: danielfiedler_@hotmail.com
+- 📫 How to reach me: [Email](danielfiedler_@hotmail.com)
+
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/daniel-fiedler/])
