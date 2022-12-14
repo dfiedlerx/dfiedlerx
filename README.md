@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything
 - 📫 How to reach me: [Email](danielfiedler_@hotmail.com)
 
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)][https://www.linkedin.com/in/daniel-fiedler/])
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-fiedler/)
