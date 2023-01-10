@@ -1,9 +1,10 @@
 ## Helo there! Im Daniel Fiedler
 
   <div align="center">
-      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" 
-  src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png">
-  </div>
+  <a href="https://github.com/dfiedlerx">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=dfiedlerx&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfiedlerx&layout=compact&langs_count=7&theme=light"/>
+</div>
 
 - 🔭 Working on Boticario in Brazil
 - 🌱 Learning React, Flutter and Angular in frontend and about nodeJs, PHP and Java in Backend
@@ -12,11 +13,7 @@
 - 💬 Ask me about everything
 
 
-<div align="center">
-  <a href="https://github.com/dfiedlerx">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=dfiedlerx&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfiedlerx&layout=compact&langs_count=7&theme=light"/>
-</div>
+
   
   <div align="center" style="margin-top: 15px; margin-bottom: 15px; display: inline_block"><br>
   <img align="center" alt="dfiedlerx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +22,11 @@
   <img align="center" alt="dfiedlerx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
+  
+    <div align="center">
+      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" 
+  src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png">
+  </div>
 
 
  
