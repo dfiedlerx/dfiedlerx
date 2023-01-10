@@ -1,4 +1,4 @@
-## Hello there! Im Daniel Fiedler
+## Hello there! Im Daniel Fiedler...
 
   <div align="center">
   <a href="https://github.com/dfiedlerx">
