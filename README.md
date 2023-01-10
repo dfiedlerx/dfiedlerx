@@ -1,10 +1,10 @@
-## Helo there! Im Daniel Fiedler
+## Hello there! Im Daniel Fiedler
 
   <div align="center">
   <a href="https://github.com/dfiedlerx">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=dfiedlerx&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfiedlerx&layout=compact&langs_count=7&theme=light"/>
-         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfiedlerx&theme=light" alt="userThaliaoliveira" />
+  </a>
 
 </div>
 
