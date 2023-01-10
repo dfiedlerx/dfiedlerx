@@ -23,10 +23,9 @@
   
 </div>
   
-    <div align="center">
-      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" 
-  src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png">
-  </div>
+  
+  
+
 
 
  
