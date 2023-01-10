@@ -34,7 +34,7 @@
   </div>
   
   <p align="center">
-  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=userThaliaoliveira&theme=synthwave" alt="userThaliaoliveira" />
+  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfiedlerx&theme=light" alt="dfiedlerx" />
 </p>
 
 
