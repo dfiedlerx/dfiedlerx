@@ -23,7 +23,10 @@
     <img align="center" alt="dfiedlerx-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
   
-  ## About Me
+  
+    <p align="center">
+  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfiedlerx&theme=light" alt="dfiedlerx" />
+</p>
   
   <div>
   
@@ -35,9 +38,7 @@
 
   </div>
   
-  <p align="center">
-  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfiedlerx&theme=light" alt="dfiedlerx" />
-</p>
+
 
 
  <div align="center">
