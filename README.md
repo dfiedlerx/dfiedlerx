@@ -23,6 +23,8 @@
     <img align="center" alt="dfiedlerx-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
   
+  ## About Me
+  
   <div>
   
 - 🔭 Working on Boticario in Brazil
