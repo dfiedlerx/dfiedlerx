@@ -7,7 +7,7 @@
 </div>
 
     
-  <div align="center" style="margin-top: 15px; margin-bottom: 20px; display: inline_block"><br>
+  <div align="center" style="margin-top: 20px; margin-bottom: 35px; display: inline_block"><br>
       <img align="center" alt="dfiedlerx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dfiedlerx-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="dfiedlerx-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,13 +21,15 @@
     <img align="center" alt="dfiedlerx-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 </div>
   
+  <div>
+  
 - 🔭 Working on Boticario in Brazil
 - 🌱 Learning React, Flutter and Angular in frontend and about nodeJs, PHP and Java in Backend
 - 👯 Looking to collaborate on social or distuptive projects
 - 🤔 Looking for help with a new own company
 - 💬 Ask me about everything
 
-
+  </div>
 
  <div align="center">
       <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png">
