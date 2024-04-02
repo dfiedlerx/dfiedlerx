@@ -8,6 +8,11 @@
 
 </div>
 
+<div style='text-align: center; width: 100%'>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dfiedlerx" alt="dfiedlerx" /> </p>
+
+</div>
 
     
   <div align="center" style="margin-bottom: 35px; display: inline_block"><br>
