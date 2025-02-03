@@ -43,7 +43,12 @@
       <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png">
   </div>
 
-  <div style='text-align: center; width: 100%'>
+  <div align="center" style='padding-top: 40px; padding-bottom: 40px;'>
+    <strong>31</strong> / <strong>31</strong> / <strong>31</strong> / <strong>31</strong> / <strong>31</strong> / <strong>31</strong> 
+  </div>
+
+
+  <div style='text-align: center; width: 100%; padding-top: 40px'>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dfiedlerx" alt="dfiedlerx" /> </p>
 
