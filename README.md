@@ -34,10 +34,11 @@
 
   </div>
   
-
+&nbsp;&nbsp;
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dfiedlerx&theme=vue&type=png" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=dfiedlerx&theme=light&short_numbers=true&date_format=j%20M%5B%20Y%5D" style="width: 50%;"/>
 </p>
+&nbsp;&nbsp;
 
  <div align="center">
       <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png">
