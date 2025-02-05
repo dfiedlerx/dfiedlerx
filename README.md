@@ -5,7 +5,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dfiedlerx&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfiedlerx&layout=compact&langs_count=10&theme=light"/>
 
-
 </div>
     
   <div align="center" style="margin-bottom: 35px; display: inline_block"><br>
@@ -43,7 +42,8 @@
  <div align="center">
       <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://pm1.aminoapps.com/7487/360633693c9f35be0b465057f2694de68dfa7bc9r1-500-359v2_00.jpg">
   </div>
-&nbsp;
+
+<div align="center" style='padding-top: 40px; padding-bottom: 40px;'>↑  </div>
   <div align="center" style='padding-top: 40px; padding-bottom: 40px;'>
     <strong>31</strong> / <strong>31</strong> / <strong>31</strong> / <strong>31</strong> / <strong>31</strong> / <strong>31</strong> 
   </div>
@@ -54,4 +54,3 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dfiedlerx" alt="dfiedlerx" /> </p>
 
 </div>
-
