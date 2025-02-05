@@ -39,7 +39,7 @@
 </p>
 &nbsp;&nbsp;
 
- <div align="center">
+ <div align="center" style="width: 100%; background-color: #FFF;">
       <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://pm1.aminoapps.com/7487/360633693c9f35be0b465057f2694de68dfa7bc9r1-500-359v2_00.jpg">
   </div>
 
