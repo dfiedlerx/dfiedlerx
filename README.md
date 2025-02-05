@@ -41,7 +41,7 @@
 &nbsp;&nbsp;
 
  <div align="center">
-      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png">
+      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://pm1.aminoapps.com/7487/360633693c9f35be0b465057f2694de68dfa7bc9r1-500-359v2_00.jpg">
   </div>
 &nbsp;
   <div align="center" style='padding-top: 40px; padding-bottom: 40px;'>
