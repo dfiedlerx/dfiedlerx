@@ -36,7 +36,7 @@
   
 
 <p align="center">
-  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dfiedlerx&theme=light" alt="dfiedlerx" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dfiedlerx&theme=vue&type=png" alt="GitHub Streak" /></a>
 </p>
 
  <div align="center">
