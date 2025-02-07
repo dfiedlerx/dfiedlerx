@@ -35,7 +35,7 @@
   
 &nbsp;&nbsp;
 <p align="center">
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=dfiedlerx&theme=ligh&date_format=j%20M%5B%20Y%5D&mode=weekly" style="width: 80%;"/>
+   <img src="https://github-streak-stats-ruby.vercel.app/?user=dfiedlerx&theme=light" alt="dfiedlerx" style="width: 70%" /> 
 </p>
 &nbsp;&nbsp;
 
