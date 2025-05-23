@@ -39,8 +39,8 @@
 </p>
 &nbsp;&nbsp;
 
- <div align="center" style="width: 100%; background-color: #FFF;">
-      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://github.com/user-attachments/assets/74130368-b70e-402f-a195-f23f45b158b3">
+ <div align="center" style="width: 100%; background-color: #FFF; border-radius: 8px;">
+      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://pm1.aminoapps.com/7487/360633693c9f35be0b465057f2694de68dfa7bc9r1-500-359v2_00.jpg">
   </div>
 
 <div align="center" style='padding-top: 40px; padding-bottom: 40px;'>↑  </div>
