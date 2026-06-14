@@ -1,10 +1,10 @@
 <p align="center">
   <h1>🚀 Daniel Fiedler</h1>
-  <strong>Tech Lead | System Architect | Product Strategist</strong>
+  <strong>Staff Engineer | System Architect | Product Strategist</strong>
 </p>
 
 <p align="center"> 
-  <img alt="Banner" src="https://github.com/user-attachments/assets/35ec81bf-1f6c-40da-a581-3e8086d83030" width="60%" />
+  <img alt="Banner" src="https://github.com/user-attachments/assets/35ec81bf-1f6c-40da-a581-3e8086d83030" width="500" />
 </p>
 
 ---
