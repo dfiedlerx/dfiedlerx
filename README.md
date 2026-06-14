@@ -1,4 +1,10 @@
-## Hello there! Im Daniel Fiedler...
+
+
+<p align="center">
+ <strong>
+Whats up! Im Daniel Fiedler!
+  </strong>
+</p>
 
 <p align="center"> <img alt="image" src="https://github.com/user-attachments/assets/35ec81bf-1f6c-40da-a581-3e8086d83030" />
 
@@ -25,7 +31,7 @@
 - 🔭 Working on Boticario in Brazil
 - 🌱 Learning React, Flutter and Angular in frontend and about nodeJs, PHP and Java in Backend
 - 👯 Looking to collaborate on social or distuptive projects
-- 🤔 Looking for help with a new own company
+- 🤔 Lnaching  a new own company
 - 💬 Ask me about everything
 
   </div>
@@ -50,6 +56,6 @@
 
   <div style='text-align: center; width: 100%; padding-top: 40px;'>
 
-
+<p align="center"><i>Wisdom is a circle. What you receive, you must give back.</i></p>
 
 </div>
