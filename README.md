@@ -1,11 +1,8 @@
 ## Hello there! Im Daniel Fiedler...
 
-  <div align="center">
+<p align="center"> <img alt="image" src="https://github.com/user-attachments/assets/35ec81bf-1f6c-40da-a581-3e8086d83030" />
 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dfiedlerx&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfiedlerx&layout=compact&langs_count=10&theme=light"/>
-
-</div>
+ </p>
     
   <div align="center" style="margin-bottom: 35px; display: inline_block"><br>
       <img align="center" alt="dfiedlerx-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,7 +37,9 @@
 &nbsp;&nbsp;
 
  <div align="center" style="width: 100%; background-color: #FFF; border-radius: 8px;">
-      <img alt="dfiedlerx-pic" height="200" style="border-radius:50px;" src="https://pm1.aminoapps.com/7487/360633693c9f35be0b465057f2694de68dfa7bc9r1-500-359v2_00.jpg">
+
+   <img  alt="dfiedlerx-pic" height="200" style="border-radius:50px;"  src="https://github.com/user-attachments/assets/2fdb6f36-50d9-4bab-97fd-14823a79bd22" />
+
   </div>
 
 <div align="center" style='padding-top: 40px; padding-bottom: 40px;'>↑  </div>
@@ -51,6 +50,6 @@
 
   <div style='text-align: center; width: 100%; padding-top: 40px;'>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dfiedlerx" alt="dfiedlerx" /> </p>
+
 
 </div>
