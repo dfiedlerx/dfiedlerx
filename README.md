@@ -11,10 +11,10 @@
 
 ## ⚡ Executive Impact
 
-I bridge the gap between complex engineering and real business value. As a **Tech Lead**, my mission is to build systems that don't just work—they scale and co-create products.
+I bridge the gap between complex engineering and real business value. As a **Staff Engineer**, my mission is to build systems that don't just work—they scale and co-create products.
 
 * **🔭 Current Role:** Leading technical excellence and high-scale architecture at **Grupo Boticário**.
-* **🚀 Priority Launch:** Currently rolling out **uiless** — a code-first, API-centric revolution in digital interfaces.
+* **🚀 Priority Launch:** Currently rolling out **Uiless** — a code-first, API-centric revolution in digital interfaces and the ui death.
 * **🤖 Future Roadmap:** Developing **SupplyGenesis**, an AI-driven platform transforming supply chain logistics.
 
 ---
